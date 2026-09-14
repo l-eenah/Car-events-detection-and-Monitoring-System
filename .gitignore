@@ -1,0 +1,10 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+venv/
+
+# OS/editor files
+.DS_Store
+.vscode/
+
